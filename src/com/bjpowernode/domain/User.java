@@ -13,4 +13,6 @@ public class User {
     private String age;
 
     private String gender;
+
+    private String birth;
 }
